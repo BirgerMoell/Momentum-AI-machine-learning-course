@@ -11,6 +11,8 @@ machine learnings models that can create language and understand vision. The cou
 The course is taught in Python and excepts some familiarity with Python. If python is new to you, there are a repository filled with Python Fundamentals that can help you get started
 
 ###
+
+[Python fundamentals](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/python_fundamentals/PythonFundamental/PythonFundamentals.ipynb)
 [Lists in Python](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/python_fundamentals/PythonFundamental/ListsinPython.ipynb)
 
 ## Python libraries
