@@ -9,10 +9,12 @@ machine learnings models that can create language and understand vision. The cou
 
 ## Part 1 getting started with AI
 How to train a deep neural network and get it up and running. 
+
 [Getting started with AI](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson1/Getting%20started%20with%20AI.ipynb)
 
 ## Part 5 web server for machine learning
 How to build a web server for your trained model.
+
 [Web server for serving a trained model](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson5/Building%20a%20web%20app%20using%20machine%20learning.ipynb)
 
 ## Python fundamentals
