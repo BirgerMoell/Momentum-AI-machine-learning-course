@@ -13,6 +13,7 @@ The course is taught in Python and excepts some familiarity with Python. If pyth
 ###
 
 [Python fundamentals](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/python_fundamentals/PythonFundamental/PythonFundamentals.ipynb)
+
 [Lists in Python](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/python_fundamentals/PythonFundamental/ListsinPython.ipynb)
 
 ## Python libraries
