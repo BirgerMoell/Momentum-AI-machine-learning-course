@@ -3,6 +3,12 @@ This Momentum AI's machine learning courses, teaches you how to work with the la
 
 Learn more at http://momentum-ai.com
 
+Google Document with overview on how to get started with deep learning.
+https://docs.google.com/document/d/1TOC41vbdTZpyzM6nz7KV6v_S4W_KfpK4EMQ-LUAkki4/edit
+
+Presentation regarding AI and Machine Learning.
+https://docs.google.com/presentation/d/1kKbz2truGhtTaXUwfTi1A-KocBFbhCGQM3PKDzY_BoY/edit?usp=sharing
+
 The course will teach you how to work with different machine learning models with focus on artificial neural networks.
 You will learn how to build your own artificial neural network from scratch and how to use Tensorflow and Keras to create
 machine learnings models that can create language and understand vision. The course will also focus on how to get your trained model up and working on the web.
