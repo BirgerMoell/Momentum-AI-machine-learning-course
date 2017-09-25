@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "catvsdogs",
+    "description": "No description",
+    "slug": "catvsdogs",
+    "privacy": "public",
+    "sdkVersion": "21.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "notification": {
+      "icon": "./assets/icons/notification-icon.png",
+      "color": "#000000"
+    },
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf"]
+    },
+    "ios": {
+      "bundleIdentifier": "com.sk3vy.new-project-template",
+      "supportsTablet": true
+    }
+  }
+}
