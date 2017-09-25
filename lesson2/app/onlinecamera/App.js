@@ -169,7 +169,7 @@ componentDidMount(){
       console.log({ uploadResponse });
       console.log({ uploadResult });
       console.log({ e });
-      alert('Upload failed, sorry :(');
+      //alert('Upload failed, sorry :(');
     } finally {
       this.setState({ uploading: false });
     }
