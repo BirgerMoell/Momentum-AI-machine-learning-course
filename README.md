@@ -33,6 +33,8 @@ In the third lesson we work with general adverserial networks and style transfer
 
 ## Part 4 The math of deep learning
 
+## Part 5 Deep learning and neuroscience
+
 ## Python fundamentals
 The course is taught in Python and it's good to have some familiarity with Python. If Python is new to you, there are Python resources here that can help you get started.
 
@@ -65,8 +67,4 @@ For working with data frames
 For plotting data
 
 
-## Part 5 web server for machine learning
-How to build a web server for your trained model.
-
-[Web server for serving a trained model](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson5/Building%20a%20web%20app%20using%20machine%20learning.ipynb)
 
