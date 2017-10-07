@@ -1,3 +1,4 @@
+# Training your first artificial neural network
 
 In the first lesson you will learn how to get started with deep learning using Keras and Tensorflow. You get to train your own deep neural network that works wih brain imaging data. 
 
