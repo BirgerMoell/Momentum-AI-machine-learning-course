@@ -14,6 +14,25 @@ You will learn how to build your own artificial neural network from scratch and 
 machine learnings models that can create language and understand vision. The course will also focus on how to get your trained model up and working on the web.
 
 
+## Part 1 Getting started with AI
+How to train a deep neural network and get it up and running. 
+
+[Getting started with AI](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson1/Getting%20started%20with%20AI.ipynb)
+
+[Hello world](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson1/Hello%20world.ipynb)
+
+In the first lesson you will learn how to get started with deep learning using Keras and Tensorflow. You get to train your own deep neural network that works wih brain imaging data. 
+
+## Part 2 Machine Learning on mobile
+
+In the second lesson we work on getting a machine learning model working on a mobile phone.
+
+## Part 3 General adversarial networks and style transfer
+
+In the third lesson we work with general adverserial networks and style transfer.
+
+## Part 4 The math of deep learning
+
 ## Python fundamentals
 The course is taught in Python and it's good to have some familiarity with Python. If Python is new to you, there are Python resources here that can help you get started.
 
@@ -45,10 +64,6 @@ For working with data frames
 ## Matplotlib
 For plotting data
 
-## Part 1 getting started with AI
-How to train a deep neural network and get it up and running. 
-
-[Getting started with AI](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson1/Getting%20started%20with%20AI.ipynb)
 
 ## Part 5 web server for machine learning
 How to build a web server for your trained model.
