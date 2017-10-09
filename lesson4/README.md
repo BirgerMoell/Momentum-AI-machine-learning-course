@@ -32,7 +32,10 @@ loss equals -1
 ### Sigmoid
 ![title](files/sigmoid.png)
 
-, Relu, Softmax
+### Relu
+![title](files/relu.png)
+
+, Softmax
 
 ### Non-linear relationships
 
