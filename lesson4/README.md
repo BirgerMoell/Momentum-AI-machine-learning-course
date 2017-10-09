@@ -30,8 +30,7 @@ loss equals -1
 ## Activation function
 
 ### Sigmoid
-![alt text](https://imgur.com/mfJoW6t "Sigmoid")
-
+![title](files/sigmoid.png)
 
 , Relu, Softmax
 
