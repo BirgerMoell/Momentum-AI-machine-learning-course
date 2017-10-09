@@ -1,5 +1,10 @@
 # The math of deep learning
 
+## X and Y
+X is the input to the neural network
+![title](files/xinput.png)
+
+
 # Backprop
 
 ## Gradient descent
