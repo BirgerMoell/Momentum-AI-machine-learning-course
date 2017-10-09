@@ -10,6 +10,8 @@ X is the input to the neural network
 
 ## Gradient descent
 
+![title](files/optimization.gif)
+
 Do you like gradient descent. Look at this notebook.
 Or put some stuff from that notebook in our notebook.
 
