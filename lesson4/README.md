@@ -29,7 +29,12 @@ loss equals -1
 
 ## Activation function
 
-### Sigmoid, Relu, Softmax
+### Sigmoid
+Inline-style: 
+![alt text](https://imgur.com/mfJoW6t "Sigmoid")
+
+
+, Relu, Softmax
 
 ### Non-linear relationships
 
