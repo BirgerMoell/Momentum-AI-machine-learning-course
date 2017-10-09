@@ -3,6 +3,7 @@
 ## X and Y
 X is the input to the neural network
 ![title](files/xinput.png)
+![title](files/xinput2.png)
 
 
 # Backprop
