@@ -66,6 +66,7 @@ w1*x1 + b
 ## Universal function approximator
 
 ### LSTM = Turing Machine
+![title](files/turing_machine.JPG)
 
 
 ## Normalization
