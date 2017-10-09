@@ -35,7 +35,8 @@ loss equals -1
 ### Relu
 ![title](files/relu.png)
 
-, Softmax
+### Softmax
+![title](files/softmax.png)
 
 ### Non-linear relationships
 
