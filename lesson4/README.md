@@ -32,7 +32,7 @@ loss equals -1
 ### Sigmoid
 ![title](files/sigmoid.png)
 
-###Relu
+### Relu
 ![title](files/relu.png)
 
 , Softmax
