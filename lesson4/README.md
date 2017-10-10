@@ -33,9 +33,6 @@ X is the input to the neural network
 
 ![title](files/optimization.gif)
 
-Do you like gradient descent. Look at this notebook.
-Or put some stuff from that notebook in our notebook.
-
 ## Objective functions (Loss function)
 
 ### Derivatives
