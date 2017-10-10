@@ -1,5 +1,26 @@
 # The math of deep learning
 
+> What I cannot create, I do not understand - Richard Feynman 
+
+![title](https://qph.ec.quoracdn.net/main-qimg-87833c78a604ff07a82ff7787574e197-c)
+
+Richard Feynman who is considered one of the greatest scientists who ever lived had something scribbled on his blackboard at the time of his death.
+
+What I cannot create I do not understand.
+
+So this time we will create in order to understand.
+
+# Math in deep learning
+Deep learning draws math from three different sources, linear algebra, calculus and statistics. 
+## Linear algebra
+http://machinelearningmastery.com/linear-algebra-machine-learning/
+## Calculus
+https://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf
+## Statistics
+http://machinelearningmastery.com/crash-course-statistics-machine-learning/
+Neural network from scratch
+
+
 ## X and Y
 X is the input to the neural network
 ![title](files/xinput.png)
