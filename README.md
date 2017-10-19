@@ -27,7 +27,7 @@ In the first lesson you will learn how to get started with deep learning using K
 
 In the second lesson we work on getting a machine learning model working on a mobile phone.
 
-## Part 3 General adversarial networks and style transfer
+## [Part 3 General adversarial networks and style transfer](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson3/)
 
 ## Using neural networks for making art. 
 
