@@ -85,7 +85,7 @@ X is the input to the neural network
 
 ## Gradient descent
 
-![title](files/optimization.gif)
+![title](lesson4/files/optimization.gif)
 
 ## Objective functions (Loss function)
 
@@ -110,16 +110,15 @@ loss equals -1
 ## Activation function
 
 ### Sigmoid
-![title](files/sigmoid.png)
+![title](lesson4/files/sigmoid.png)
 
 ### Relu
-![title](files/relu.png)
+![title](lesson4/files/relu.png)
 
 ### Softmax
-![title](files/softmax.png)
+![title](lesson4/files/softmax.png)
 
 ### Non-linear relationships
-
 
 ## Weight multiplication
 
