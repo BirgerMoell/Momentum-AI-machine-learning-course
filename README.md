@@ -29,7 +29,26 @@ In the second lesson we work on getting a machine learning model working on a mo
 
 ## Part 3 General adversarial networks and style transfer
 
-In the third lesson we work with general adverserial networks and style transfer.
+## Using neural networks for making art. 
+
+![title](lesson3/files/gans.png)
+
+Generative adversarial networks (GANs) are a class of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks contesting with each other in a zero-sum game framework. They were introduced by Ian Goodfellow et al. in 2014,[1] although the idea of adversarial training dates back to Jürgen Schmidhuber in 1992.[2]
+
+## How does a GAN learn?
+![title](lesson3/files/ganlearning.png)
+A general adverserial network are two neural networks, one generator and one discriminator. The job of the generator is to create stimuli that can fool the discriminator.
+
+![title](lesson3/files/dcgan.jpg)
+
+The DCGAN network takes as input 100 random numbers drawn from a uniform distribution (we refer to these as a code, or latent variables, in red) 
+and outputs an image (in this case 64x64x3 images on the right, in green). 
+As the code is changed incrementally, the generated images do too — this shows the model 
+has learned features to describe how the world looks, 
+rather than just memorizing some examples.
+The network (in yellow) is made up of standard convolutional neural network components, such as deconvolutional layers (reverse of convolutional layers), fully connected layers, etc.:
+![title](files/gen_models_diag_1.svg)
+
 
 ## Part 4 The math of deep learning
 
