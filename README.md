@@ -118,9 +118,8 @@ plt.show()
 
     
    ```
-## [Hello world](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson1/Hello%20world.ipynb)
-
-Example of the hello world of machine learning using MNIST.
+## Hello world
+[Example of the hello world of machine learning using MNIST](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson1/Hello%20world.ipynb)
 
 ## Part 2 Machine Learning on mobile
 
