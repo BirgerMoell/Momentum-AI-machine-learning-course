@@ -21,11 +21,11 @@ How to train a deep neural network and get it up and running.
 
 [Hello world](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson1/Hello%20world.ipynb)
 
-In the first lesson you will learn how to get started with deep learning using Keras and Tensorflow. You get to train your own deep neural network that works wih brain imaging data. 
-
 # Training your first artificial neural network
 
-In the first lesson you will learn how to get started with deep learning using Keras and Tensorflow. You get to train your own deep neural network that works wih brain imaging data. 
+In the first lesson you will learn how to get started with deep learning using Keras and Tensorflow. You get to train your own deep neural network that works wih brain imaging data.
+
+Here is the code for a deep neural network in Keras. Exciting stuff!
 
 
 ```python
