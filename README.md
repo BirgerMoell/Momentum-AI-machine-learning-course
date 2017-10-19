@@ -53,6 +53,20 @@ The network (in yellow) is made up of standard convolutional neural network comp
 ## Part 4 The math of deep learning
 
 ## Part 5 Deep learning and neuroscience
+# Towards a mathematical understanding of the mind
+![title](https://image.slidesharecdn.com/chernodubkharkivaiclubv03post-150701123201-lva1-app6891/95/details-of-lazy-deep-learning-for-images-recognition-in-zz-photo-app-2-638.jpg?cb=1435754072)
+It makes sense to argue that the reason why deep learning algorithms work is because they are similar to how the brain computes information
+But to get started it might be good for us to understand, how does the human brain work and process information?In recent years, theories that view the brain as a machine that process information has grown in influence. 
+
+The most groundbreaking work is the entropic brain theory, that argues that the primary purpose of the human brain is to reduce entropy (uncertainty) in our environment.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3909994/
+![title](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3909994/bin/fnhum-08-00020-g0007.jpg)
+Recent work has indeed supported the notion that brain activity is slightly sub-critical in normal waking consciousness (Priesemann et al., 2013). One reason why it may be advantageous for the brain to operate just below criticality is that by doing so, it can exert better control over the rest of the natural world—most of which is critical. This may take the form of suppressing endogenous processes within the brain or interacting with the environment in order to shape it and thereby control it. Indeed, if control is the objective, then it makes sense that the brain should be more ordered than that which it wishes to control.
+
+The idea that the brain is closer to criticality in the psychedelic state than in normal waking consciousness (Figure ​(Figure7)7) has some intuitive appeal as some of the signatures of criticality, such as maximum metastability, avalanche phenomena and hypersensitivity to perturbation are consistent with the phenomenology of the psychedelic state. For example, if we consider just one of these: hypersensitivity to perturbation, it is well known that individuals are hypersensitive to environmental perturbations in the psychedelic state, which is why such emphasis is placed on the importance of managing the environment in which the psychedelic experience unfolds (Johnson et al., 2008). Indeed, one explanation for why some people celebrate and romanticize the psychedelic experience and even consider it “sacred” (Schultes, 1980; McKenna, 1992), is that, in terms of criticality, brain activity does actually become more consistent closer with the rest of nature in this state i.e., it moves closer to criticality-proper and so is more in harmony with the rest of nature.
+
+A final speculation that is worth sharing, is that the claim that psychedelics work to lower repression and facilitate access to the psychoanalytic unconscious, may relate to the brain moving out of a sub-critical mode of functioning and into a critical one, enabling transient windows of segregation or modularity to occur (e.g., with “anarchic” MTL activity) because of the breakdown of the system's hierarchical structure. Indeed, repression may depend on the brain operating in a sub-critical mode, since this would constrain consciousness and limit its breadth. Phenomena such as spontaneous personal insights and the complex imagery that often plays out in psychedelic state (Cohen, 1967) and dreaming, may depend on a suspension of repression, enabling cascade-like processes to propagate through the brain [e.g., from the MTLs to the association cortices (Bartolomei et al., 2012)]. Such processes may depend on a reduction of DMN control over MTL activity.
 
 ## Python fundamentals
 The course is taught in Python and it's good to have some familiarity with Python. If Python is new to you, there are Python resources here that can help you get started.
