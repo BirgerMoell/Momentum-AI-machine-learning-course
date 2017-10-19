@@ -14,7 +14,7 @@ You will learn how to build your own artificial neural network from scratch and 
 machine learnings models that can create language and understand vision. The course will also focus on how to get your trained model up and working on the web.
 
 
-# [Part 1 Getting started with AI] (https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson1/Getting%20started%20with%20AI.ipynb)
+# [Part 1 Getting started with AI](https://github.com/bcarlyle/Momentum-AI-machine-learning-course/blob/master/lesson1/Getting%20started%20with%20AI.ipynb)
 
 ## Training your first artificial neural network
 
