@@ -77,8 +77,8 @@ Neural network from scratch
 
 ## X and Y
 X is the input to the neural network
-![title](files/xinput.png)
-![title](files/xinput2.png)
+![title](lesson4/files/xinput.png)
+![title](lesson4/files/xinput2.png)
 
 
 # Backprop
