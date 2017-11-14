@@ -26,6 +26,68 @@ We detail a powerful new WaveNet-style autoencoder model that conditions an auto
 
 https://magenta.tensorflow.org/nsynth
 
+## AI Duet: A piano that responds to you.
+![title](https://i.imgur.com/OVLGICa.png)
+
+This experiment lets you play a duet with the computer. Just play some notes, and the computer will respond to your melody. You don’t even have to know how to play piano—it’s fun to just press some keys and listen to what comes back. You can click the keyboard, use your computer keys, or even plug in a MIDI keyboard. It's just one example of how machine learning can inspire people to be creative in new ways.
+
+Built by Yotam Mann with friends on the Magenta and Creative Lab teams at Google. It's built with Tensorflow, Tone.js, and open-source tools from the Magenta project.
+
+https://experiments.withgoogle.com/ai/ai-duet/view/
+
+## Repository
+https://github.com/googlecreativelab/aiexperiments-ai-duet
+
+# How to create MIDI files
+Using python
+
+ ```python
+pip install MIDIFile
+ ```
+
+   ```python
+
+from midiutil.MidiFile import MIDIFile
+
+def createMidi(musicData):
+    MyMIDI = MIDIFile(1)
+    #Tracks are numbered from zero. Times are measured in beats.
+    track = 0
+    time = 0
+    channel = 0
+    time = 0
+    volume = 100
+    duration = 1
+    #Add track name and tempo.
+    MyMIDI.addTrackName(track,time,"Sample Track")
+    MyMIDI.addTempo(track,time,120)
+
+    musicData = np.reshape(musicData, (1, 16))
+
+    for value in musicData:
+        print (musicData.shape)
+        print (len(value))
+        j = 0
+        while j < 16:
+                #Now add the note.
+                print("the value of j is")
+                print(j)
+                track = j
+                channel = j
+                pitch = int(value[j])*10
+                time = time + j
+                MyMIDI.addNote(track,channel, pitch, time, duration, volume)
+                j = j + 1
+
+    #And write it to disk.
+    binfile = open("output.mid", 'wb')
+    MyMIDI.writeFile(binfile)
+    binfile.close()
+
+createMidi(data)
+
+   ```
+
 # Paper
 https://arxiv.org/abs/1704.01279
 
