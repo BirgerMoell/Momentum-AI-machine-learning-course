@@ -38,8 +38,9 @@ https://experiments.withgoogle.com/ai/ai-duet/view/
 ## Repository
 https://github.com/googlecreativelab/aiexperiments-ai-duet
 
-# How to create MIDI files
-Using python
+## How to create MIDI files
+
+## Using python
 
  ```python
 pip install MIDIFile
