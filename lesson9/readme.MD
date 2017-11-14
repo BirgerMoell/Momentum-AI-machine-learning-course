@@ -13,6 +13,7 @@ Second, Magenta is an attempt to build a community of artists, coders and machin
 ## Example Magenta Projects
 
 ## Performance RNN
+![title](https://i.imgur.com/nwHQ2Eh.png)
 
 Creating short compositions that sounds okay but lack the longer structure that we are used to have in “real” music pieces
 https://magenta.tensorflow.org/performance-rnn
