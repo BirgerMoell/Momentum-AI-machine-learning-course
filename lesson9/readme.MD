@@ -1,4 +1,5 @@
 # AI in music
+![title](https://i.ytimg.com/vi/paBvh-0uw34/maxresdefault.jpg)
 AI in music is an interesting and hard topic.
 
 One of the most used libraries for working with sound data is Google Magenta which is a library for working with sound.
