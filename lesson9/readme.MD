@@ -38,6 +38,18 @@ https://experiments.withgoogle.com/ai/ai-duet/view/
 ## Repository
 https://github.com/googlecreativelab/aiexperiments-ai-duet
 
+# Paper
+https://arxiv.org/abs/1704.01279
+
+## WaveNet
+![title](https://storage.googleapis.com/deepmind-live-cms/documents/BlogPost-Fig1-Anim-160908-r01.gif)
+## Abstract
+WaveNet is a deep neural network for generating raw audio waveforms. The model is fully probabilistic and autoregressive, with the predictive distribution for each audio sample conditioned on all previous ones; nonetheless we show that it can be efficiently trained on data with tens of thousands of samples per second of audio. When applied to text-to-speech, it yields state-of-the-art performance, with human listeners rating it as significantly more natural sounding than the best parametric and concatenative systems for both English and Mandarin. A single WaveNet can capture the characteristics of many different speakers with equal fidelity, and can switch between them by conditioning on the speaker identity. When trained to model music, we find that it generates novel and often highly realistic musical fragments. We also show that it can be employed as a discriminative model, returning promising results for phoneme recognition.
+
+## Original paper
+https://arxiv.org/pdf/1609.03499.pdf
+
+
 ## How to create MIDI files
 
 ## Using python
@@ -88,16 +100,5 @@ def createMidi(musicData):
 createMidi(data)
 
    ```
-
-# Paper
-https://arxiv.org/abs/1704.01279
-
-## WaveNet
-![title](https://storage.googleapis.com/deepmind-live-cms/documents/BlogPost-Fig1-Anim-160908-r01.gif)
-## Abstract
-WaveNet is a deep neural network for generating raw audio waveforms. The model is fully probabilistic and autoregressive, with the predictive distribution for each audio sample conditioned on all previous ones; nonetheless we show that it can be efficiently trained on data with tens of thousands of samples per second of audio. When applied to text-to-speech, it yields state-of-the-art performance, with human listeners rating it as significantly more natural sounding than the best parametric and concatenative systems for both English and Mandarin. A single WaveNet can capture the characteristics of many different speakers with equal fidelity, and can switch between them by conditioning on the speaker identity. When trained to model music, we find that it generates novel and often highly realistic musical fragments. We also show that it can be employed as a discriminative model, returning promising results for phoneme recognition.
-
-## Original paper
-https://arxiv.org/pdf/1609.03499.pdf
 
 
