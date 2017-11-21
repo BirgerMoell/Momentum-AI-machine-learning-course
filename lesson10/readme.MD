@@ -35,3 +35,45 @@ the predictions of the players’ SR, but also decrease the time for
 game play simulation by at least 50 times.
 
 So get excited for game night!
+
+# Alpha Go Zero
+
+![title](https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/23215614_514375378724_8927753670967270156_o.jpg?oh=3aaa86c5056b6587466abb23793b52aa&oe=5AA1D49C)
+
+# AlphaGo Zero based RL agent 
+Anton Osikas implementation of the Alpha Go Zero made during during 'AI Weekend' in Stockholm
+
+https://github.com/AntonOsika/agz
+
+## Structure
+```python
+├── README.md
+├── agz.py          # MCTS logic. File can be run for visualisations etc
+├── gostate.py      # Go environment
+├── policyvalue.py  # Neural networks etc for evaluating board positions
+├── goboard.py      # Go code 
+├── scoring.py      # More go code 
+└── training.py     # Training loop performing self play 
+```
+
+## Installation
+
+```
+pip install numpy
+pip install keras
+pip install tensorflow
+
+python agz.py
+```
+
+## Todo
+- Implement random reflections of board (mcts kind of ruins things now)
+- Tune how much time is spend exploring / training (c.f. AGZ paper)
+- Parallelize training and simulation.
+- Use code from `agz.play_game` to create `MCTSAgent` class 
+- Use same logic this on other environments
+- Learn the transition dynamics of step(state, action)
+
+(`MCTSAgent` should probably implement `.update_state` and `.decision` methods)
+
+
