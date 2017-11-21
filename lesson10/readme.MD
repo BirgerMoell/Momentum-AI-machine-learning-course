@@ -87,6 +87,8 @@ Colaboratory is a data analysis tool that combines text, code, and code outputs 
 
 ![title](https://i.imgur.com/jfHKE9Q.png)
 
+# Lets try it out together
+
 https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb
 
 
