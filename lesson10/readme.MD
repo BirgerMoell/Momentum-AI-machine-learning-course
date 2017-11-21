@@ -1,5 +1,6 @@
 # Understanding human players and Alpha Go Zero
 
+![title](https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/23215485_514364231064_4399164717301012176_o.jpg?oh=9b4c3020cfc79c375efcfe162e3386bb&oe=5AAA495C)
 
 All the world's a stage,
 And all the men and women merely players.
