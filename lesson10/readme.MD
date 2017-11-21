@@ -43,7 +43,10 @@ So get excited for game night!
 # AlphaGo Zero based RL agent 
 Anton Osikas implementation of the Alpha Go Zero made during during 'AI Weekend' in Stockholm
 
-https://github.com/AntonOsika/agz
+
+```bash
+git clone https://github.com/AntonOsika/agz
+```
 
 ## Structure
 ```python
