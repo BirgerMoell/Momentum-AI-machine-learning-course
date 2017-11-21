@@ -83,11 +83,9 @@ python agz.py
 
 ![title](https://i.imgur.com/dZ91fUv.png)
 
-![title](https://i.imgur.com/CqmP3ep.png)
+Colaboratory is a data analysis tool that combines text, code, and code outputs into a single collaborative document. Lets try it out together!
 
 ![title](https://i.imgur.com/jfHKE9Q.png)
-
-Colaboratory is a data analysis tool that combines text, code, and code outputs into a single collaborative document. Lets try it out together!
 
 https://colab.research.google.com/notebook#fileId=/v2/external/notebooks/welcome.ipynb
 
